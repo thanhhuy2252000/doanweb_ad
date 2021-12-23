@@ -286,7 +286,7 @@
                                     <h2>Jon Royita</h2>
                                     <p>Founder of Uttara It Park</p>
                                 </div>
-                                <img src="img/notification/1 (2).jpg" class="img-circle circle-border m-b-md" alt="profile">
+                                <img src="img/notification/1.jpg" class="img-circle circle-border m-b-md" alt="profile">
                                 <div class="social-widget-result">
                                     <span>100 Tweets</span> |
                                     <span>350 Following</span> |
