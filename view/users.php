@@ -1,4 +1,4 @@
-<?php  ?>
+<?php session_start(); ?>
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -41,7 +41,7 @@
                               <th>Setting</th>
                           </tr>
                     <?php 
-                        session_start();
+                        
                         if(isset($_GET['edit']))
                         $id=$_GET['edit'];
                         $servername = "localhost";
