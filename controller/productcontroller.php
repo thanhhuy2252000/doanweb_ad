@@ -16,7 +16,7 @@ if(isset($_GET['delete'])){
     ProductDao::deleteProduct($id);
    alertM("Delete product Thành Công", "../view/product-list.php");
 }
-else if(isset($_POST[''])){
+else if(isset($_POST['save'])){
   $txt_id=$_POST["txt_id"];
   $txt_name = $_POST["txt_name"];
   $txt_price = $_POST["txt_price"];
